@@ -1,0 +1,12 @@
+.root{
+    -fx-background-color: GRAY;
+}
+.label{
+    -fx-alignment: center;
+    -fx-font-family: "Lucida Console";
+    -fx-font-size: 20;
+}
+#loginButton{
+    -fx-fill: Orange;
+}
+
